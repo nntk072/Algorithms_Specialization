@@ -38,7 +38,7 @@ def count_inversions(arr):
         return arr, 0
 
     left = arr[: n // 2]
-    right = arr[n // 2 :]
+    right = arr[n // 2:]
 
     left, left_inv = count_inversions(left)
     right, right_inv = count_inversions(right)
