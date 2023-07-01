@@ -18,6 +18,7 @@
 # may have to manage memory carefully. The best way to do this depends on your programming language and environment,
 # and we strongly suggest that you exchange tips for doing this on the discussion forums.
 
+# File name: SCC.txt
 # Answer
 # 434821,968,459,313,211
 import sys
